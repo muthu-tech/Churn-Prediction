@@ -1,2 +1,2 @@
 # Churn-Prediction
-Incidence driven contract conversion modelling based on Logit probability
+Incident driven contract conversion modeling based on Logit probability
